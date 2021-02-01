@@ -1,0 +1,11 @@
+﻿p, user, article, read
+p, user, article, modify
+p, user, article, create
+p, user, article, delete
+
+g, supervisor, user
+g, admin, supervisor
+
+g, 1, user
+g, 2, supervisor
+g, 3, admin
